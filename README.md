@@ -21,9 +21,21 @@ MathLearnSolve est une application Windows conçue pour accompagner les élèves
 
 ## 🚀 Commencer avec la version d'essai
 
-L'essai dure **5 jours**. Il donne accès aux cours et exercices des **deux premiers chapitres**, ainsi qu'à **3 analyses de fonctions réussies**. Les autres chapitres sont signalés comme faisant partie de la version complète.
+L'essai gratuit dure **5 jours à partir de la vérification de l'adresse e-mail**.
+Il donne accès aux cours et exercices des **deux premiers chapitres**, ainsi
+qu'à **3 analyses de fonctions**. Pour l'essai, une connexion Internet est
+nécessaire afin de vérifier la période et le nombre d'analyses restantes;
+SymPy effectue le calcul sur l'ordinateur et les expressions ne sont pas
+envoyées au serveur.
 
-L'application principale fonctionne hors ligne après installation. Le composant OCR est facultatif ; une connexion Internet est nécessaire lors de son premier usage pour télécharger les modèles. Une fois les modèles installés, le traitement OCR s'effectue localement.
+Après confirmation manuelle du paiement, l'autrice envoie un code d'activation
+à saisir dans l'application avec Internet. Une licence activée permet ensuite
+d'utiliser l'application et l'analyse locale **hors ligne sans limite de
+durée** sur l'appareil activé. Les mises à jour nécessitent Internet.
+
+Le composant OCR est facultatif ; une connexion Internet est nécessaire lors
+de son premier usage pour télécharger les modèles. Une fois les modèles
+installés, le traitement OCR s'effectue localement.
 
 ## 💻 Télécharger et installer
 
@@ -43,7 +55,8 @@ La page des versions contient également les notes de publication et les fichier
 | Langue de l'application | Français |
 | Public visé | Élèves de 1ère Bac au Maroc |
 | Filière actuellement disponible | Sciences Mathématiques |
-| Fonctionnement principal | Hors ligne après installation |
+| Fonctionnement avec licence activée | Hors ligne sans limite de durée |
+| Essai et première activation | Connexion Internet requise |
 | OCR | Facultatif ; Internet requis au premier téléchargement des modèles |
 
 ## 🧩 Pourquoi découvrir MathLearnSolve ?
@@ -72,10 +85,20 @@ La page des versions contient également les notes de publication et les fichier
 
 MathLearnSolve is a Windows math-learning app designed for Moroccan first-year high-school students (1ère Bac). **Sciences Mathématiques is currently the only available track**; other tracks may be added later.
 
-The app includes structured lessons, exercises with hints and solutions, and a function analyzer with graphing. The five-day trial includes lessons and exercises from the first two chapters and three successful function analyses. The main application works offline after installation. OCR is optional and requires an internet connection on first use to download its models; recognition results may need review.
+The app includes structured lessons, exercises with hints and solutions, and
+a function analyzer with graphing. The free trial lasts **five days after
+email verification** and includes lessons and exercises from the first two
+chapters and **three function analyses**. Trial access requires an internet
+connection for server-side checks and quota counting; SymPy computes functions
+locally and expressions are not sent to the server.
+
+After manually confirming payment, the author emails an activation code. Enter
+it in the app while online. An activated license then works offline without a
+time limit on its activated device. Updates require an internet connection.
+OCR is optional and requires an internet connection on first use to download
+its models; recognition results may need review.
 
 - [Official website](https://miriben.github.io/MathLearnSolvee/)
 - [Download the latest Windows installer](https://github.com/miriben/MathLearnSolvee/releases/latest/download/MathLearnSolve-Setup.exe)
 - [Releases and release notes](https://github.com/miriben/MathLearnSolvee/releases)
-
 
