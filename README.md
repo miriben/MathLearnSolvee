@@ -78,4 +78,4 @@ The app includes structured lessons, exercises with hints and solutions, and a f
 - [Download the latest Windows installer](https://github.com/miriben/MathLearnSolvee/releases/latest/download/MathLearnSolve-Setup.exe)
 - [Releases and release notes](https://github.com/miriben/MathLearnSolvee/releases)
 
-<p align="center"><sub>The public repository contains the website and downloads, not the application's source code. The product brand is MathLearnSolve; the repository is named MathLearnSolvee.</sub></p>
+
