@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miriben.github.io/MathLearnSolvee/sitemap.xml
